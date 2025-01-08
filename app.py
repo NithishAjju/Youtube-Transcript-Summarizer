@@ -131,9 +131,9 @@ st.set_page_config(page_title="YouTube Video Summarizer", page_icon="🎥", layo
 st.title("YouTube Transcript to Detailed Notes Converter")
 st.write("""
     **Instructions:**
-    1. Paste a YouTube video link into the input box below.
-    2. Click on "Get Detailed Notes" to generate a summary of the video based on its transcript.
-    3. You can then read the detailed summary!
+    1. Paste a YouTube video link into the input box below.    
+    2. Adjust the language and length of the summary.
+    3. Click on "Get Detailed Notes" to generate a summary of the video based on its transcript.
 """)
 
 # Input for YouTube video link
