@@ -102,17 +102,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-## 📝 **License**
-This project is licensed under the **MIT License**.
-
----
-
-## 📧 **Contact**
-For feedback, questions, or collaboration:
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
-
----
-
 ⭐ **If you find this project helpful, don’t forget to star the repository!** ⭐
 
