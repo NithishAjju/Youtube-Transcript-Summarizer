@@ -123,6 +123,7 @@ Transcript to Summarize:
 
 
 
+
 # Frontend layout and UI components
 st.set_page_config(page_title="YouTube Video Summarizer", page_icon="🎥", layout="centered")
 
