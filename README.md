@@ -10,14 +10,14 @@ This project provides an interactive web application built with **Streamlit** th
 - **Language Support:** Summaries can be generated in multiple languages including **English, Spanish, French, German, Italian, and Portuguese**.
 - **Customizable Summary Length:** Users can choose summary lengths ranging from **50 to 500 words**.
 - **Interactive UI:** User-friendly interface built with **Streamlit**.
-- **AI-Powered Summaries:** Uses **Google's Gemini Pro** model for precise and context-aware summaries.
+- **AI-Powered Summaries:** Uses **Google's Gemini Pro/ LLaMA-2 7B** model for precise and context-aware summaries.
 
 ---
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** Streamlit
 - **Backend:** Python
-- **AI Model:** Google Gemini Pro
+- **AI Model:** Google Gemini Pro/ LLaMA-2 7B
 - **APIs:** YouTube Transcript API
 - **Environment Management:** dotenv
 
